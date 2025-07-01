@@ -10,37 +10,32 @@ Final project for the Building AI course
 
 ## Summary
 
-Cyper Security become more an more important. Large companies are able to provide an own security team. But even so there is always a risk to be hacked. More and more systems are online and in case of critical infrastructure a cyber attact can have huge impact for a company, a city or even a country. At moment cyper security is mostly reactive. You install tools, monitor the results if you have security operation center and you start to harden and improve your environment. It is a little bit that everybody build his own securtiy-castle but there is little proactive help from goverment. It would be very helpful if the goverment can provide help by proactive protection against cyber criminals oder cyber spys at least for critical infrastructure.
-A few month ago a huge power black out in spain and portugal happend. A cyper attact was a possible reason even so it was denied afterwards.
+Cybersecurity is becoming increasingly important. Large companies often have their own security teams, but the risk of being hacked still remains. As more systems go online, a cyberattack on critical infrastructure can have devastating consequences for a company, a city, or even a country. Currently, cybersecurity is mostly reactive. Tools are installed, results are monitored through a security operations center, and environments are hardened over time. It's as if everyone is building their own security castle, yet there is little proactive assistance from the government. Government support in providing proactive protection against cybercriminals or cyber spies, especially for critical infrastructure, would be invaluable. A few months ago, a massive power blackout occurred in Spain and Portugal, with a cyberattack being considered a potential cause, though it was later denied.
 
 ## Background
 
-
-There a couple of problems a goverment driven cyber protection could solve
-* Outage of critical infrastructure
-* Finding and bann cyper criminals, combats and spys to lower the risk
-* Analyse successful hacks and look for possible solutions to avoid repetition
-  
-
+There are several issues that government-driven cyber protection could address:
+* Outages of critical infrastructure
+* Identifying and banning cybercriminals, combatants, and spies to reduce risks
+* Analyzing successful hacks and finding solutions to prevent recurrence
 
 ## How is it used?
 
-This problem is not an easy small project you can solve by your own, like a simple spam filter.
-Most companies have securtiy tools like firewalls, gateways, intrusion prevention or detection systems. This systems provide a tons of log files to handle and protocol IT security. A the moment it is more like every company fight for his own. It would be great to have community to collect all the logs centrally and try to find potential new risks, new protection method or even neutralize the bad players in the IT environment. To avoid misuse of the data a goverment organisation like in germany the BSI [BSI([https://www.bsi.bund.de/DE/Home/home_node.html)]
+This issue is not a simple project that can be tackled individually, like creating a basic spam filter. Most companies already use security tools such as firewalls, gateways, and intrusion prevention or detection systems. These systems generate an overwhelming amount of log files to manage and document IT security. Currently, it feels like every company is fighting on its own. A collective effort to centralize log data and identify new potential risks would be incredibly beneficial. To avoid misuse of the data a goverment organisation like in germany the BSI [BSI([https://www.bsi.bund.de/DE/Home/home_node.html)]
 could be a candidate for data collection. The data could also be used for research project or product development given a working data protection.
 
 ## Data sources and AI methods
-The data pool would be filled by the participating companies and organisations continuously. A normalisation of the data like intrusion detection systems typically to would help to organize the data.
+The data pool would be continuously populated by participating companies and organizations. Normalizing the data, similar to how intrusion detection systems operate, would help to organize it effectively.
 
-This would be great data source to find pattern, analyse successful and unsuccessful attacs and establish a central risk mitigation and risk alert system. The data pool could also be very helpful for universities for reseach topics.
+This could serve as a valuable resource for identifying patterns, analyzing successful and unsuccessful attacks, and establishing a centralized risk mitigation and alert system. The data pool could also be incredibly useful for universities working on research topics.
 
 ## Challenges
 
-Cyper crime a part of hybrid war tactis need tools in time to defend your company, country or critical infrastructure. Without AI i assume it is not possible to handle the amount of data and find the right conclusions.
+Cybercrime, as part of hybrid warfare tactics, requires timely tools to defend companies, countries, and critical infrastructure. Without AI, it seems nearly impossible to manage the volume of data and draw accurate conclusions.
 
 ## What next?
 
-I am a member of a political party and will discuss the topic with my colleagues.  
+As a member of a political party, I plan to discuss this topic with my colleagues. 
 
 
 ## Acknowledgments
